@@ -1,0 +1,6 @@
+{
+  "name": "ChurnShield AI — Streaming Retention Engine",
+  "description": "Enterprise B2B SaaS retention intelligence dashboard parsing raw customer databases, unstructured Kaggle features, zero-shot customer grouping matrices, and subscriber loyalty footprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

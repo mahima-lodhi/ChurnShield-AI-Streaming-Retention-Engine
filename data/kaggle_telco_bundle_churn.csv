@@ -1,0 +1,11 @@
+account_id,customer_name,plan_type,monthly_fee,tenure_months,payment_status,days_since_stream,monthly_stream_hours,buffering_events,support_tickets,unstructured_feedback
+TEL-8001,Raymond Hayes,Gigabit Fiber + Stream,34.99,14,Paid,18,6.0,5,2,"Fiber connection keeps dropping during evening 4K streaming. Router restart does not help."
+TEL-8002,Beatriz Mendes,Mobile 5G + Video Pass,19.99,28,Paid,1,45.0,0,0,"5G hotspot streaming works everywhere without data throttling. Extremely happy with coverage."
+TEL-8003,Oliver Queen,Triple Play Bundle,49.99,8,Overdue,23,3.0,7,4,"Hidden equipment fees tacked onto bill. Customer service queue took 45 minutes on phone."
+TEL-8004,Sunita Patel,Fiber 500M + OTT Duo,27.99,32,Paid,3,38.0,1,0,"Consistent 500Mbps speeds and bundled video apps keep whole family entertained."
+TEL-8005,Liam O'Sullivan,Broadband Basic,14.99,6,Paid,14,7.5,4,1,"Speed throttles down during prime time video playback. Considering switching to competitor fiber."
+TEL-8006,Camila Rodriguez,Mobile Unlimited Plus,24.99,19,Paid,2,36.0,0,0,"Unlimited HD streaming without buffering even while traveling on commuter rail."
+TEL-8007,Nathaniel Cruz,Gigabit Fiber + Stream,34.99,4,Overdue,20,4.0,6,3,"Modem failed twice in three weeks. Technician missed appointment window. Cancel pending."
+TEL-8008,Ingrid Bergman,Fiber 500M + OTT Duo,27.99,22,Paid,2,41.0,0,0,"Seamless cloud DVR and streaming app integration on set-top box. Great clarity."
+TEL-8009,Vikram Singh,Triple Play Bundle,49.99,11,Paid,12,14.0,3,1,"Too expensive compared to standalone OTT subscriptions. Might downgrade bundle next month."
+TEL-8010,Aaliyah Farooq,Mobile 5G + Video Pass,19.99,16,Paid,4,29.0,1,0,"Video streaming pass saves monthly mobile data allowance. Reliable playback."

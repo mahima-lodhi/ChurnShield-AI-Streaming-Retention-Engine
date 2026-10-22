@@ -1,0 +1,4 @@
+# The Python workspace engine uses only Python standard-library modules:
+# sys, os, csv, json, sqlite3, time, urllib.request, and urllib.error.
+#
+# No third-party Python packages are required.
